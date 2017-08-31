@@ -1,0 +1,191 @@
+Domain Name,Product Description,Product Link,URL,MATERIAL_NO,MANUFACTURER_NAME_1,MANUFACTURER_PT_NO_1,NOUN_ENGLISH,MODIFIER_ENGLISH,Keywords,Status Flag
+Fastenal,"Fastenal Part No. (SKU):
+                            
+                                0241920
+                            
+                            Manufacturer Part No.:
+                            
+                                53-034
+                            
+                                UNSPSC
+                            :
+                            
+                                    27111706
+                                
+                                NSN
+                            :
+                            
+5120-01-101-1192
+                            Manufacturer:
+                            
+Armstrong Industrial Hand Tools
+                            Category:
+                            
+                                
+    
+    
+        
+    
+      
+    
+        
+        
+            
+        
+    
+    
+        
+        
+            Tools & Equipment
+        
+    
+    
+        
+            
+            >
+        
+        
+    
+    
+        
+        
+            Hand Tools
+        
+    
+    
+        
+            
+            >
+        
+        
+    
+    
+        
+        
+            Wrenches, Wrench Sets & Accessories
+        
+    
+    
+        
+            
+            >
+        
+        
+    
+    
+        
+        
+            Open End Wrenches
+        
+    
+                            
+Finish:
+Polished
+Material:
+Steel
+Offset Degree:
+15°
+Open End Thickness:
+5.00mm
+Open End Width:
+22.00mm x 24.00mm
+Overall Length:
+123.80mm
+Size:
+10mm x 11mm
+Type:
+Open End Wrench
+                                Product Weight:
+                                
+                                    0.1 lbs.",,https://www.fastenal.com/products?term=0241920,1308286,,0241920,,,0241920,
+AlliedElec,"Pepperl + Fuchs
+Sensor,  Proximity,  Inductive,  2mm Range,  10-30VDC,  PNP,  NO,  M8,  052019
+Mfr. Part#:
+NBB2-8GM25-E2-V3
+Allied Stock#:
+70093354
+  RoHS Compliant Part
+Quantity
+ 
+                    
+                    
+
+                        $(""#ctl00_contentMain_txtQuantity"").keydown(function(e) {
+                            if (e.keyCode == 13)
+                            {
+                                __doPostBack('ctl00_contentMain_pnlPopUpManager', $('#ctl00_contentMain_lblAlliedStockNumber').text());
+                                return false;
+                            }
+                        });                        
+                    
+Resources
+Datasheet
+Catalog Page #562
+View More from Pepperl + Fuchs >>
+Specifications
+Alternate Mfr Part Number:
+052019
+Body Style:
+Cylindrical
+Brand/Series:
+NBB2 Series
+Current, Switching:
+100
+                                mA
+                                
+Function:
+Proximity
+IP Rating:
+IP67
+Mounting Type:
+Flush
+Output:
+PNP-NO
+Range, Measurement:
+2
+                                mm
+                                
+Supply Voltage:
+30
+                                VDC
+                                
+Technology:
+Inductive
+Termination:
+QC Tabs
+Type:
+Inductive",,http://www.alliedelec.com/search/results.aspx?term=NBB2-8GM25-E2-V3,60088876,,NBB2-8GM25-E2-V3,,,NBB2-8GM25-E2-V3,
+RS-Online,"Product Details
+Compact Plastic Body
+Four modes of detection in one unitEasy set-up at the touch of a buttonSelf teach precise set-up 'multi-mode detection'Sensing distance dependent on mode of operationThrough Beam Functionality using additional light source (thru-beam accessory)Programmable NO/NC switchingConnection: Screw clamp terminals or plug-in connector (M12 4 pin male)IP67 Protection rating Operating temperature range -15 to +55 °CStock number 444-3619 has a timing functionSee 3D adjustment accessories for mounting brackets
+ 
+Type
+Diffuse Range (m)
+Polarised Reflex  Range (m)(With reflector accessory)
+Background Suppression Range (m)
+Through-beam Range (m)(With accessory) 
+Dimensions (mm)
+Compact Plastic Body
+2
+11
+1.3
+40
+SS      50 x 18 x 50Relay 91 x 30 x 91
+Osisense
+Sensor StyleBlock
+Detection TypeThrough Beam Accessory (Emitter)
+Detection Range40 m
+Electrical ConnectionScrew Clamp
+Maximum AC Voltage240V
+Maximum DC Voltage240V
+Light SourceInfrared LED
+IP RatingIP65, IP67
+Maximum Current3 A, 500 mA
+Response Time<25 ms
+Housing MaterialPBT
+Maximum Operating Temperature+55°C
+CAD Drawing3D CAD Model
+Minimum Operating Temperature-25°C
+Select all
+Find alternative products
+Find alternative products",,http://uk.rs-online.com/web/p/photoelectric-sensors/4443625/?searchTerm=XUX0ARCTT16T,1015091,,XUX0ARCTT16T,,,XUX0ARCTT16T,

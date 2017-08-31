@@ -1,0 +1,7 @@
+Name,Home,BaseProductURL,SearchQuery,LinkClass,LinkTagType,TextClass,TextTagType
+Grainger,https://www.grainger.com/,https://www.grainger.com,https://www.grainger.com/search?searchBar=true&searchQuery=,productLink title,a,productDescription,ul
+Grainger,https://www.grainger.com/,https://www.grainger.com,https://www.grainger.com/search?searchBar=true&searchQuery=,,,technicalSpecs productPageSection|productName,div|div
+MotionIndustries,https://www.motionindustries.com/productCatalogSearch.jsp,https://www.motionindustries.com,https://www.motionindustries.com/productCatalogSearch.jsp?q=,item-property,div,result-item-detail,div
+Fastenal,https://www.fastenal.com/,https://www.fastenal.com/,https://www.fastenal.com/products?term=,,,section mobile-clear|two-thirds-desktop,div|div
+AlliedElec,http://www.alliedelec.com/,None,http://www.alliedelec.com/search/results.aspx?term=,,,divMaterial|specs,div|div
+RS-Online,http://uk.rs-online.com/web/,None,http://uk.rs-online.com/web/p/photoelectric-sensors/4443625/?searchTerm=,,,prodDetailsContainer top20|specTableContainer,div|div
